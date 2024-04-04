@@ -1,4 +1,7 @@
-# Ex02-OS-Linux-Process API - fork(), wait(), exec()
+# Name: Sri Vignesh G
+# Register Number: 212223040204
+
+# Ex02 OS Linux-Process API - fork(), wait(), exec()
 
 Operating systems Lab exercise
 
