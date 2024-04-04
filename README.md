@@ -50,7 +50,8 @@ int main(void)
 
 ## OUTPUT
 
-![output](image.png)
+![image](https://github.com/SriVignesh-G/Linux-Process-API-fork-wait-exec/assets/147576510/bed93f69-8cf4-4371-b65b-1fb6e93b6cc5)
+
 
 
 
@@ -76,7 +77,8 @@ exit(0);}
 ```
 
 ## OUTPUT
-![output](image-1.png)
+![image](https://github.com/SriVignesh-G/Linux-Process-API-fork-wait-exec/assets/147576510/2e79af02-5ac8-4f47-95f8-3b9db8df0f76)
+
 
 ## C Program to execute Linux system commands using Linux API system calls exec() family
 ```
@@ -107,7 +109,8 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 ## OUTPUT
-![output](image-2.png)
+![image](https://github.com/SriVignesh-G/Linux-Process-API-fork-wait-exec/assets/147576510/3f6009d5-775f-4edc-baa2-c452fbaff2f9)
+
 
 # RESULT:
 The programs are executed successfully.
